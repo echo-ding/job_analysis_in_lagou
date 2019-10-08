@@ -13,3 +13,6 @@
 
 ## 项目目录  
 ![](menu.png)
+
+## 项目预览  
+[项目预览](https://www.bunao.win/ihtml/analysis_job.html)
